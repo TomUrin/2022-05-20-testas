@@ -58,4 +58,14 @@ for (let i = 0; i < africa.length; i++) {
     console.log(africa[i]);
 }
 
+console.log('-----------------4-----------------');
 
+
+
+console.log('-----------------5-----------------');
+
+const australia = ['Kengūra', 'Ančiasnapis', 'Dingo', 'Atsirado', 'Strutis'];
+
+for (let i = 0; i < australia.length; i++) {
+    console.log(australia[i]);
+}
