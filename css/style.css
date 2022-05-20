@@ -1,0 +1,13 @@
+.btn {
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 15px;
+    background-color: skyblue;
+}
+
+.text {
+    font-size: 30px;
+    margin: 50px;
+} 
